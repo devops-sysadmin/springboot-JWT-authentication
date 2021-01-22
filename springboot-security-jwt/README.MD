@@ -1,8 +1,13 @@
 Run This project from IDE
+
 Make a post request to http:localhost:9192/authenticate with any of the below credentials as username and password like below example
+
  "javatechie", "password"
+ 
   "user1", "pwd1"
+  
   "user2", "pwd2" 
+  
   "user3", "pwd3"
   
   Eg: 
